@@ -11,5 +11,5 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning headless CMS
 - 😄 Pronouns: Ginger
 - ⚡ Fun fact: I lost 30 pounds and get 30 pounds back in 2 years. 
-- :slot_machine: Fun fact: I was kick out of a casino by security in Las Vegas ... 
+- :slot_machine: Fun fact: I was kicked out of a casino by security in Las Vegas ... 
 
