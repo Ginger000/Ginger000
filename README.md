@@ -4,7 +4,7 @@
 <!-- **Ginger000/Ginger000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-- 🔭 I’m currently working at Water Lab as a research assistant (mainly for web development)
+- 🔭 I’m currently working at @WaterLab as a research assistant (mainly for web development)
 - :mortar_board: Master Candidate of Landscape Architecture (computational design thesis path)
 - :cactus: Graduating at May, 2022
 - 🤔 I’m looking for a web front-end/full-stack job
