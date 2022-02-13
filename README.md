@@ -1,14 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Ginger
 
 
 <!-- **Ginger000/Ginger000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-- :mortar_board: Master of Landscape Architecture (computational design thesis path)
-- 🔭 I’m currently working at Water Lab as a research assistant
-- 🌱 I’m currently learning headless CMS
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working at Water Lab as a research assistant (mainly for web development)
+- :mortar_board: Master Candidate of Landscape Architecture (computational design thesis path)
+- :cactus: Graduating at May, 2022
 - 🤔 I’m looking for a web front-end/full-stack job
+- 🌱 I’m currently learning headless CMS
 - 😄 Pronouns: Ginger
-- ⚡ Fun fact: I was kick out of a casino by security in Las Vegas ... 
+- ⚡ Fun fact: I lost 30 pounds and get 30 pounds back in 2 years. 
+- :slot_machine: Fun fact: I was kick out of a casino by security in Las Vegas ... 
 
