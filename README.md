@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 - 🔭 I’m currently working at @WaterLab as a research assistant (mainly for web development)
 - :mortar_board: Master Candidate of Landscape Architecture (computational design thesis path)
-- :cactus: Graduating at May, 2022
+- :cactus: Graduating at August, 2022
 - 🤔 I’m looking for a web front-end/full-stack job
 - 🌱 I’m currently learning headless CMS
 - 😄 Pronouns: Ginger
